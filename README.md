@@ -1,7 +1,8 @@
-# Work-Day-Scheduler
+# Work Day Scheduler (jQuery & Moment.js)
 
+#### Below is a work day scheduler I created with html, css, moment.js and javascript (jQuery). The header shows the current month and day in which I used moment.js to make. The functionality of the calendar is updated every second to insure the date is correct and that each time block is lined up with the clock. Each time block color correlates to what time it is. If it is the past the block is grey, if it is the current time the block is red and if it is the future then the block is green. When you type a comment in the box and hit save, the comment is saved to local storage. Then the comment is retrieved so that every time you refresh the page the comment will always in the box. If you delete the content and then save it as empty the box will be empty. Enjoy this work day scheduler!!
 
-
+<br>
 
 ![Quiz Demo](Images/demo.gif)
 
