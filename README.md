@@ -4,7 +4,7 @@
 
 <br>
 
-![Quiz Demo](Images/demo.gif)
+![Demo](Images/demo.gif)
 
 [Site Link](https://cliffordmorin.github.io/Work-Day-Scheduler/)
 
