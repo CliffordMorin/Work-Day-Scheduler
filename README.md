@@ -4,8 +4,18 @@
 
 <br>
 
+## Demo
+
 ![Demo](Images/demo.gif)
 
-[Site Link](https://cliffordmorin.github.io/Work-Day-Scheduler/)
+## Links
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/morin-clifford-129888a9/)
+* Application URL:[Site Link](https://cliffordmorin.github.io/Work-Day-Scheduler/)
+
+## Questions
+
+ Feel free to reach me at cemorin21@gmail.com with any question regarding this project!
+
+ [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/morin-clifford-129888a9/)
+
+ [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/CliffordMorin)
